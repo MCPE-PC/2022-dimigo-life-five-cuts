@@ -1,0 +1,9 @@
+art
+ascii_magic
+luma.core
+luma.oled
+opencv-python
+picamera
+pillow
+requests
+vidgear[core]
